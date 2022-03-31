@@ -4,7 +4,7 @@ This is an open source appointment management system for driving schools. In thi
 
 ## Demo
 
-Url: https://metro.stevemu.com
+Url: https://driving-school-demo.vercel.app/
 
 Username: admin
 
